@@ -1,0 +1,9 @@
+trial;response;stimFile
+1;go;piano_min20db.wav
+2;go;piano_min30db.wav
+3;go;piano_min40db.wav
+4;go;piano_min50db.wav
+5;nogo;silent.wav
+6;nogo;silent.wav
+7;nogo;silent.wav
+8;nogo;silent.wav
